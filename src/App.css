@@ -36,3 +36,92 @@
     transform: rotate(360deg);
   }
 }
+
+.font {
+  font-size: 0.875rem;
+}
+
+.most {
+  text-align: left;
+  margin-left: 1cm;
+  margin-bottom: 1.5rem!important;
+  
+}
+
+.edu {
+  margin-top: 70px;
+  
+}
+
+.platform {
+  text-align: left;
+  margin-left: 1cm;
+  margin-bottom: 1rem!important;
+}
+
+.grow {
+  text-align: left;
+  margin-left: 1cm;
+  /* font-size: 40px; */
+  margin-bottom: 1rem!important;
+  font-weight: 700!important;
+}
+
+.student {
+  float: right;
+  margin-right: 1cm;
+}
+
+.btn-primary {
+  background-color: #754ffe; 
+}
+
+.rounded-3 {
+  border-radius: 0.5rem!important;
+}
+.bg-primary {
+  margin-top: 5cm;
+  --geeks-bg-opacity: 1;
+  background-color: #754ffe!important;
+  
+}
+
+.mt-n13 {
+  margin-top: -5rem!important;
+  margin-left: -32rem!important;
+}
+
+ .atom {
+  margin-left: 70px;
+  float: left;
+  margin-top: 3cm;
+}
+
+.d-flex {
+  margin-right: 10px;
+}
+
+/* .boy {
+  margin-left: 40px;
+  float: left;
+}  */
+
+.today {
+  color: white;
+  padding: 10px;
+  float: bottom;
+  text-align: left;
+  float: right;
+  padding-right: 70px;
+  margin-top: -13rem!important;
+}
+
+.color {
+  background-color: #e0e0e0;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+.container {
+  padding-top: 5cm;
+}
