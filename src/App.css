@@ -67,10 +67,10 @@
   font-weight: 700!important;
 }
 
-.student {
+/* .student {
   float: right;
   margin-right: 1cm;
-}
+} */
 
 .btn-primary {
   background-color: #754ffe; 
@@ -87,14 +87,14 @@
 }
 
 .mt-n13 {
-  margin-top: -5rem!important;
+  margin-top: -6rem!important;
   margin-left: -32rem!important;
 }
 
  .atom {
-  margin-left: 70px;
+  margin-left: 80px;
   float: left;
-  margin-top: 3cm;
+  margin-top: 2.5cm;
 }
 
 .d-flex {

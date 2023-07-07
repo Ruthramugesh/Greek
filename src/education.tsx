@@ -26,7 +26,7 @@ export default function Education(props: carrer) {
     return (
         <div>
             <form>
-                <div className="edu">
+                <div className="edu" style={{marginTop: "4cm"}}>
                     <div className="mb-6 mb-lg-0 col-lg-6">
                         <div className="text-dark mb-4">
                             <div className="most">
@@ -50,10 +50,17 @@ export default function Education(props: carrer) {
                         </div>
                     </div>
                 </div>
-                <div className="student">
-                    {/* <img src="https://geeks-react.netlify.app/static/media/bg-thumb.5b4ebc05aa8a77519211f5e81bc9cae4.svg" style={{float: "right"}} alt="..."/> */}
-                    <img src={props.skills.image} className="position-absolute end-0 bottom-0" style={{ marginRight: "2cm", marginBottom: "50px" }} />
-                </div>
+                
+                    <div className="position-relative">
+                    <img src={props.skills.image1} style={{float: "right", marginRight: "4cm", marginTop: "-23rem"}} alt="..."/> 
+                    <img src={props.skills.image2} className="position-absolute end-0 bottom-0" style={{ marginRight: "4cm",marginBottom: "-2.5rem" }} />
+                    <img src={props.skills.image3} style={{float: "right", marginRight: "-25.5rem", marginTop: "-23rem"}} />
+                    <img src={props.skills.image4} className="position-absolute bottom-0 start-0 ms-lg-n14 ms-n6 mb-n7" style={{marginLeft: "40.5rem", marginBottom: "-5.5rem"}} />
+                    <img src={props.skills.image5} className="position-absolute bottom-0 mb-10 ms-n10 ms-lg-n1" style={{float: "right", marginLeft: "41.5rem", marginBottom: "1.5rem"}}/>
+                    <img src={props.skills.image6} className="position-absolute top-0  start-0 mt-18 ms-lg-n19 ms-n8" style={{marginTop: "-15rem", marginLeft: "39rem"}} />
+                    <img src={props.skills.image7} className="position-absolute top-0  start-0 ms-lg-n14 ms-n5" style={{marginTop: "-23rem", marginLeft: "41rem"}} />
+                    </div>
+                
 
             </form>
 

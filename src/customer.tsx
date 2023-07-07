@@ -33,8 +33,8 @@ export default function Customer(props: any) {
                                 <>   
                                     <div className="card col-lg-3 col-md-6" style={{ width: "12rem", height: "5cm"}}>
                                         <div className="card-body">
-                                        <div className="col" style={{paddingTop: "70px"}}>
-                                        {/* <i className="bi bi-award"></i> */}
+                                        <div className="col" style={{paddingTop: "50px"}}>
+                                          
                                             <h3><small><b>{value.people}</b></small></h3>
                                             <span><small>{value.instruct}</small></span>
                                         </div>

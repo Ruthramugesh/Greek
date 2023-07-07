@@ -32,7 +32,13 @@ const skills = {
   join: "Join Free Now",
   vediologo: "https://geeks-react.netlify.app/static/media/play-btn.6d9c876694a0fc0f743209a4058b5815.svg",
   demo: "Watch Demo",
-  image: "https://geeks-react.netlify.app/static/media/girl-image.4cef0f73b3900c512313.png"
+  image1: "https://geeks-react.netlify.app/static/media/bg-thumb.5b4ebc05aa8a77519211f5e81bc9cae4.svg",
+  image2: "https://geeks-react.netlify.app/static/media/girl-image.4cef0f73b3900c512313.png",
+  image3: "https://geeks-react.netlify.app/static/media/frame-1.290766a1e5b32cac89727e85df3593e8.svg",
+  image4: "https://geeks-react.netlify.app/static/media/frame-2.e498290d83690aeb875aac83d6f8701a.svg",
+  image5: "https://geeks-react.netlify.app/static/media/target.9c7f63796ddda937515443355d88e420.svg",
+  image6: "https://geeks-react.netlify.app/static/media/sound.315edc3f4f890ada4bf4488e2759de64.svg",
+  image7: "https://geeks-react.netlify.app/static/media/trophy.eb4335f62035d78fda135622382f07b7.svg"
 }
 
 // const count = {
